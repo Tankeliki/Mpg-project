@@ -57,5 +57,4 @@ This project employs ensemble learning to improve prediction accuracy. The `conf
 - **Stacking** 
 
 ## Results
-- The final selected ensemble model is stored in `models/`.
 - The final trained model can be used for fuel efficiency classification.
